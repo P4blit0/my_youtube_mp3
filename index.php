@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
+    <h1 class="text-primary">Youtube MP3</h1>
     <form class="" action="index.html" method="post">
       <div class="form-group">
         <input type="text" class="form-control" id="linkInput" name="link" value="link">
